@@ -22,7 +22,7 @@ A collection of Object-Oriented Programming (OOP) practice problems and solution
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 - Practice and revise OOP concepts  
 - Prepare for exams and coding interviews  
