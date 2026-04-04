@@ -1,2 +1,33 @@
-# Practice-Questons-OOP-
-A collection of Object-Oriented Programming (OOP) practice problems and solutions covering core concepts such as classes, inheritance, polymorphism, encapsulation, abstraction, and operator overloading. Designed to strengthen problem-solving skills and deepen understanding of OOP principles.
+# OOP Practice Repository
+
+A collection of Object-Oriented Programming (OOP) practice problems and solutions. This repository is designed to help strengthen core programming concepts and improve problem-solving skills using OOP principles.
+
+---
+
+## Topics Covered
+
+- Classes & Objects  
+- Encapsulation  
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Constructors & Destructors  
+- Operator Overloading  
+
+---
+
+## Languages Used
+
+- C++
+
+---
+
+## 🎯 Purpose
+
+- Practice and revise OOP concepts  
+- Prepare for exams and coding interviews  
+- Build strong programming fundamentals  
+
+---
+
+
