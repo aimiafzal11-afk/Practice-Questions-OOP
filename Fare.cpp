@@ -40,8 +40,6 @@ class PremiumFare : public Fare{
 			    luxuryCharges + obj.luxuryCharges,
 			    tax + obj.tax
 			);
-			//final.getTotalFare() = getTotalFare() + obj.getTotalFare();
-			//return final;
 		}
 		void display(){
 			cout<<"Distance =  "<<distance<<" km"<<endl;
